@@ -11,3 +11,6 @@
 - WEBSITE SCRAPING
 
 - LOG-EVENT ANALYSIS 
+
+- REFERENCES:
+  * https://www.youtube.com/watch?v=B1lLvvEepdM&t=18s
