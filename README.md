@@ -13,6 +13,6 @@
 - LOG-EVENT ANALYSIS 
 
 - REFERENCES:
-  * https://www.youtube.com/watch?v=B1lLvvEepdM&t=18s
-  * `Dashboard`: https://www.youtube.com/watch?v=WSL6Merw4Co
+  * `Build a React Admin Dashboard App`: https://www.youtube.com/watch?v=WSL6Merw4Co
+  * `5 Python Cyber Security Projects - Python Beginner Pack`: https://www.youtube.com/watch?v=B1lLvvEepdM&t=18s
   * ...
